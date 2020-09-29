@@ -1,1 +1,2 @@
-# STAT6289_HW1
+# STAT 6289 Statistical Deep Learning
+# Pytorch
